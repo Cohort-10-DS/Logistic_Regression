@@ -1,6 +1,6 @@
 # Logistic-Regression
 
-Task: Predict whether a customer will buy a product or not for the Banking.csv dataset (description at https://archive.ics.uci.edu/ml/datasets/bank+marketing). 
+Task: Predict whether a customer will default not for the Default.xlsx dataset 
 
 *NOTE: Using statsmodel will give you easier access to the violations of classical assumptions.* 
 
@@ -14,6 +14,5 @@ Task: Predict whether a customer will buy a product or not for the Banking.csv d
 
 - Identify any multicollinearity etc. and try and remove problematic variables.
 - Post going through basic test (p-value, vif, breush pagan) and fixing for them;
-- try ridge and lasso regresssion, cross validating to choos best values of lambda for each regression model. 
 
 
